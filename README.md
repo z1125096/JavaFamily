@@ -131,17 +131,16 @@
   - [Bigo的Java面试，我挂在了第三轮技术面上......](https://mp.weixin.qq.com/s/3_HnVzGm16zU2zhk7BnwFw)
   - [15个经典的Spring面试常见问题](https://mp.weixin.qq.com/s/OMlwHHnGcN7iZ8lerUvW7w)
   - [Spring常见问题总结（补充版）](https://mp.weixin.qq.com/s/wcK2qsZxKDJTLIGqEIyaNg)
-  
+  - [我是如何在面试别人Spring事务时“套路”对方的](https://mp.weixin.qq.com/s/JcHt99SAbNIlY063rmylpA)
 - 程序人生系列
   - [写作一个月的感受](https://github.com/AobingJava/JavaFamily/blob/master/docs/coderLife/%E5%86%99%E4%BD%9C%E4%B8%80%E4%B8%AA%E6%9C%88%E5%9C%A8%E6%84%9F%E6%81%A9%E8%8A%82%E5%AF%B9%E5%A4%A7%E5%AE%B6%E8%AF%B4%E7%9A%84%E8%AF%9D.md)
   - [敖丙用20行代码拿了比赛冠军](https://github.com/AobingJava/JavaFamily/blob/master/docs/coderLife/%E6%95%96%E4%B8%99%E7%94%A820%E8%A1%8C%E4%BB%A3%E7%A0%81%E6%8B%BF%E4%BA%86%E6%AF%94%E8%B5%9B%E5%86%A0%E5%86%9B.md)
   - [应届毕业生工作7个月小结](https://mp.weixin.qq.com/s/XcrBvdlh1At_V42qfQZ9Kw)
   - [教你在服务器搭建个人面试项目](https://github.com/AobingJava/JavaFamily/blob/master/docs/coderLife/%E6%95%99%E4%BD%A0%E5%9C%A8%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E9%9D%A2%E8%AF%95%E9%A1%B9%E7%9B%AE.md)
   - [记一次害敖丙差点丢工作的线上P0事故](https://github.com/AobingJava/JavaFamily/blob/master/docs/coderLife/%E8%AE%B0%E4%B8%80%E6%AC%A1%E5%B7%AE%E7%82%B9%E5%AE%B3%E6%95%96%E4%B8%99%E4%B8%A2%E5%B7%A5%E4%BD%9C%E7%9A%84%E7%9A%84%E7%BA%BF%E4%B8%8AP0%E4%BA%8B%E6%95%85.md)
-  
+  - [从毕业到技术专家我做了啥](https://mp.weixin.qq.com/s/mYfVAo8-jkPFwhbqDZyQzw)
  # <a name="微信"></a>  <a name="公众号"></a>
-![](https://tva1.sinaimg.cn/large/006tNbRwly1g9n60h8nk4j30m80rkjzu.jpg)
-
+![](https://tva1.sinaimg.cn/large/006tNbRwly1g9ppafm401j30m80rkwn6.jpg)
 # 赞赏码
 
 熬夜不易，觉得有很大帮助的朋友可以赏杯咖啡(**不接受学生赞赏**)，赏了一定要加我微信跟我说。
@@ -162,6 +161,23 @@
 
 蚂蚁金服相互宝用户已破亿！想深入了解这款用户增长最快的产品吗？快加入蚂蚁金服吧~业务前景广阔~技术挑战巨大！
 目前岗位有：JAVA后端，前端，算法，数据，测试，具体岗位描述可加微信私聊。
+
+岗位描述：
+ CBU技术部是阿里巴巴集团味道最淳厚的技术团队，在这出孵化出了大量成功技术、产品和业务。朝着新零售、新制造未来的方向，CBU也在构建B端零售新未来：源头厂货通天下，搭建生产和零售快速通道，用技术、数据、算法赋能业务，挑战C2M业务新模式，真正实现让天下没有难做的生意。以下是我们的技术场景：
+ 1. 参与1688市场商家及运营系统架构设计及研发工作。
+ 2. 通过对业务和技术栈的理解，对现有产品功能和系统架构进行改良和优化。
+ 3. 从用户和技术出发，实现面向未来的系统规划、设计和落地。
+ 4. 技术预研和技术难点攻关，保障系统可用性、稳定性、和可扩展性。
+岗位要求 
+ 1、至少4年以上java开发经验，有扎实的Java基础(熟悉io、多线程、集合等基础框架，熟悉分布式、缓存、消息、搜索等机制） 。
+ 2、熟悉JAVAEE规范，熟悉常用的设计模式。精通Java及Web应用的开发，深入了解spring，ibatis，cache，rpc，jvm等机制与源码思想。
+ 3、具备大型复杂项目的实战及管理经验，设计及负责过大型复杂系统，系统架构设计有一定前瞻性。
+ 4、深刻理解企业应用设计模式，有大型分布式，高并发，高负载，高可用性系统设计开发经验。
+ 5、对复杂的服务端系统有构架、经验优化经验。对新技术热爱并有实际开发经验。
+ 6、具备电商或 crm经验优先，大数据分析开发相关实战经验者优先，对阿里巴巴产品及中间件熟悉者优先。
+
+投递邮箱  zack.lr@alibaba-inc.com
+
 # 澄清
 经常有人问我看了能不能吊打面试官，不能。
 
